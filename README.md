@@ -20,4 +20,8 @@
 
 I felt it difficult to navigate between Job description and the Review site to get the salary estimate for the job role. So created a this extension to make it easier to access the required details.
 
+# Thanks
+
+- Ambitionbox - used their api for fetching the data for the job description
+
 
