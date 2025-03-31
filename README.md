@@ -1,35 +1,19 @@
-# my-extension
+# Payfynder
 
-> An Extension.js example.
+> A Simple Cross Browser Extension for finding the salary estimate from survey data from AmbitionBox
 
-## Available Scripts
+# Preview
 
-In the project directory, you can run the following scripts:
+## Using Standalone
 
-### pnpm dev
+![Scrapdata V2 Preview](https://github.com/user-attachments/assets/0ddfd7df-bfe6-41ad-ac47-9e0b136cb648)
 
-**Development Mode**: This command runs your extension in development mode. It will launch a new browser instance with your extension loaded. The page will automatically reload whenever you make changes to your code, allowing for a smooth development experience.
+## Using with Linkedin
 
-```bash
-pnpm dev
-```
+![Job Scrapdata V2](https://github.com/user-attachments/assets/e122ae0d-c09e-444f-9c91-851a9ecd1ba5)
 
-### pnpm start
+# Motivation
 
-**Production Preview**: This command runs your extension in production mode. It will launch a new browser instance with your extension loaded, simulating the environment and behavior of your extension as it will appear once published.
+I felt it difficult to navigate between Job description and the Review site to get the salary estimate for the job role. So created a this extension to make it easier to access the required details.
 
-```bash
-pnpm start
-```
 
-### pnpm build
-
-**Build for Production**: This command builds your extension for production. It optimizes and bundles your extension, preparing it for deployment to the target browser's store.
-
-```bash
-pnpm build
-```
-
-## Learn More
-
-To learn more about creating cross-browser extensions with Extension.js, visit the [official documentation](https://extension.js.org).
